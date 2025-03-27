@@ -13,6 +13,6 @@ class Solution {
                 j=mid;
             }
         }
-        return nums[i];
+        return nums[j];
     }
 }
